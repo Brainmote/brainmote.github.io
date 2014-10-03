@@ -1,0 +1,13 @@
+# humanstxt.org
+
+# TEAM
+    Chef: Giuseppe Bertone
+	Contact: giuseppe.bertone [at] brainmote.com
+	Twitter: @giuseppebertone
+	From: Rome, Italy
+
+# TECHNOLOGY
+
+	Last update: 2013/10/22
+	Language: Italian
+	Doctype: HTML5

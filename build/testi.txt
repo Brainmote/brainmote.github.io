@@ -1,0 +1,15 @@
+L'obiettivo di Brainmote è portare innovazione nel mercato dei servizi cloud e delle applicazioni mobile per le piccole e medie imprese, sfruttando la piena integrazione di infrastrutture e servizi cloud con smartphone, tablet e browser tradizionali.
+
+Per l’infrastruttura cloud ho puntato sui servizi offerti da Amazon, e così ci siamo affidati ad AWS. 
+
+“Dopo 6 mesi di vita mi ritengo molto soddisfatto dei progressi fatti dalla società. Come fatto finora, ci tengo che Brainmote continui a dedicarsi con cura ed attenzione ad ogni singolo progetto al quale partecipa. Vogliamo offrire con onestà al cliente la soluzione a lui più congeniale, sempre perseguendo al contempo le nuove sfide tecnologiche.”
+
+“Attualmente stiamo valutando possibili collaborazioni con altre startup: in Italia la comunità delle idee è in fermento, e le integrazioni e sinergie possibili sono molte. Le idee che metteremo in campo in un prossimo futuro avranno sicuramente un respiro da mercato globale e coinvolgeranno tematiche che, personalmente, ritengo ancora poco sfruttate e dagli ampi margini di crescita quali l’Intelligenza Artificiale in cloud o l’utilizzo degli Open Data, dati forniti dalla Pubblica Amministrazione senza restrizioni di copyright e liberamente accessibili a tutti.”
+
+
+Link articolo Amazon: https://www.amazon.it/gp/feature.html?docId=1000751613&ref_=cm_sw_r_tw_azss_1000751613_SM
+
+
+Fin dalla costituzione nell'ottobre del 2012, in Brainmote abbiamo voluto sfruttare a pieno l'efficacia dei prodotti e dei servizi cloud, sia per la nostra organizzazione interna sia per le offerte che avremmo proposto ai nostri clienti. Teniamo a che Brainmote si dedichi con cura ed attenzione ad ogni singolo progetto al quale partecipa e vogliamo progettare ed offrire con onestà al cliente la soluzione a lui più congeniale, sempre perseguendo al contempo le nuove sfide tecnologiche.
+
+Siamo sempre favorevoli a valutare possibili collaborazioni con altre aziende innovative o startup: in Italia la comunità delle idee è in fermento, e le integrazioni e sinergie possibili sono molte. Le idee che metteremo in campo in un prossimo futuro avranno sicuramente un respiro da mercato globale e coinvolgeranno tematiche che riteniamo sfruttate marginalmente dal mercato ma dagli ampi margini di crescita, quali l'Intelligenza Artificiale o l'utilizzo degli Open Data.
